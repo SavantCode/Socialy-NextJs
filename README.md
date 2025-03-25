@@ -1,8 +1,9 @@
-<h1 align="center">✨ Next.js Full Course - Build a Social App ✨</h1>
+<h1 align="center">✨Build a Social App ✨</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
+![Demo App](![image](https://github.com/user-attachments/assets/1ed2fd10-0a66-4bf1-8dca-f093537d769d)
+)
 
-[Watch Full Tutorial on Youtube](https://youtu.be/vUYopHWOURg)
+
 
 Highlights:
 
