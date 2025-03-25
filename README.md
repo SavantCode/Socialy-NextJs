@@ -1,6 +1,7 @@
-<h1 align="center">✨Build a Social App ✨</h1>
+<h1 align="center">✨Build a Social App- Socially ✨</h1>
 
-![Demo App](![image](https://github.com/user-attachments/assets/1ed2fd10-0a66-4bf1-8dca-f093537d769d)
+![image](https://github.com/user-attachments/assets/b2ad929c-4dcf-4ac8-9925-9ffa1288b7c9)
+
 )
 
 
